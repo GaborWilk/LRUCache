@@ -1,5 +1,5 @@
-#ifndef LRU_dict_H
-#define LRU_dict_H
+#ifndef LRU_CACHE_H
+#define LRU_CACHE_H
 
 #include <iostream>
 #include <list>

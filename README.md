@@ -19,7 +19,7 @@ As a result, this gives O(1) operations (assuming a decent hash function). The m
 using namespace lru;
 
 /* get LRUCache object with given capacity */
-LRUCache<int, int> cache(1u);
+LRUCache<int, int> lru(1u);
 
 /* add element */
 lru.add(1, 10);
